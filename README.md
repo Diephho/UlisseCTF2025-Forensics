@@ -4,6 +4,7 @@
   <img src="https://hackmd.io/_uploads/B1HuVSxAJg.png" width="50%">
 </p>
 This challage gave me a .jpg file. 
+
 ![image](https://hackmd.io/_uploads/SyLhEHlCkg.png)
 Everything looked unsuspicous.
 
