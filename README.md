@@ -1,8 +1,3 @@
----
-title: UlisseCTF 2025
-
----
-
 # UlisseCTF 2025 - Forensics
 ## AWAWA
 ![image](https://hackmd.io/_uploads/B1HuVSxAJg.png)
