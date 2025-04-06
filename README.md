@@ -1,7 +1,8 @@
 # UlisseCTF 2025 - Forensics
 ## AWAWA
-![image](https://hackmd.io/_uploads/B1HuVSxAJg.png)
-
+<p align="center">
+  <img src="https://hackmd.io/_uploads/B1HuVSxAJg.png" width="50%">
+</p>
 This challage gave me a .jpg file. 
 ![image](https://hackmd.io/_uploads/SyLhEHlCkg.png)
 Everything looked unsuspicous.
@@ -25,7 +26,9 @@ So, we have the wav file. Let's open it with `Audacity` and use `Spectrogram` fo
 
 
 ## Internet of Lighthouse
-![image](https://hackmd.io/_uploads/BySgwNxRke.png)
+<p align="center">
+  <img src="https://hackmd.io/_uploads/BySgwNxRke.png" width="50%">
+</p>
 
 This challenge gave me a pcap file. Let's open it with Wireshark
 
